@@ -1,0 +1,21 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "TOI.js",
+  "author": "Scotch",
+  "engines": {
+    "node": "7.7.4",
+    "npm": "4.1.2"
+	},
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "nedb": "^1.8.0",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^1.11.0"
+  }
+}
